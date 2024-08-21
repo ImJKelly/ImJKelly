@@ -4,7 +4,7 @@
 <b>Bachelor of Science in Information Technology: Data Networking and Security</b>, Liberty University (Aug. 2019 - May 2024, GPA 3.7)
 
 <h2>👨‍💻 Information Technology and Security Projects</h2>
-Linked below are some of the assignments and projects that I have worked on.
+Listed below are some of the assignments and projects that I have finished.
 <h3>Home Lab</h3>
 • <a href="https://github.com/ImJKelly/ADDC_Lab/tree/main">Active Directory Domain Controller</a>
 
