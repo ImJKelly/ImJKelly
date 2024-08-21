@@ -6,7 +6,7 @@
 <h2>👨‍💻 Information Technology and Security Projects</h2>
 Linked below are some of the assignments and projects that I have worked on.
 <h3>Home Lab</h3>
-• Active Directory and Domain Controller
+• <a href="https://github.com/ImJKelly/ADDC_Lab/tree/main">Active Directory Domain Controller</a>
 
 <h3>Networking and Packet Tracer</h3>
 • Simple Network Design and Security (CSIS 335 Final Project)</br>
