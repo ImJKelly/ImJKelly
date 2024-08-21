@@ -26,3 +26,5 @@ Linked below are some of the assignments and projects that I have worked on.
 • Lead and Copper Removal Revision (LCRR) and Service Line Inventory (SLI) Workflow
   
 <h2> 🤳 Connect with me:</h2>
+email (personal): kelly.joseph27@gmail.com </br>
+email (professional): jkelly@vienna-wv.com
