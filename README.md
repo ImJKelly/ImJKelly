@@ -27,4 +27,4 @@ Listed below are some of the assignments and projects that I have finished.
   
 <h2> 🤳 Connect with me:</h2>
 email (personal): kelly.joseph27@gmail.com </br>
-email (professional): jkelly@vienna-wv.com
+
