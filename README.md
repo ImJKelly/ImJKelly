@@ -9,8 +9,7 @@ Listed below are some of the assignments and projects that I have finished.
 • <a href="https://github.com/ImJKelly/ADDC_Lab/tree/main">Active Directory Domain Controller</a>
 
 <h3>Networking and Packet Tracer</h3>
-• Simple Network Design and Security (CSIS 335 Final Project)</br>
-• Configure Initial Settings, VLANs, EtherChannel, and Trunking (Packet Tracer)</br>
+• <a href="https://github.com/ImJKelly/EtherChannle_InterVlan--Lab/tree/main">Configure Initial Settings, VLANs, EtherChannel, and Trunking (Packet Tracer)</a></br>
 • Configure Single-Area OSPFv2, NAT, and Access Control Lists (Packet Tracer)
 
 <h3>HTML and CSS</h3>
