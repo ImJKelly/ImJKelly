@@ -9,7 +9,7 @@ Listed below are some of the assignments and projects that I have finished.
 • <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
 
 <h3>Networking and Packet Tracer</h3>
-• <a href="https://github.com/ImJKelly/EtherChannle_InterVlan--Lab">EtherChannel and Inter-VLAN Routing(Packet Tracer)</a></br>
+• <a href="https://github.com/ImJKelly/EtherChannle_InterVlan--Lab">EtherChannel and Inter-VLAN Routing (Packet Tracer)</a></br>
 • Configure Single-Area OSPFv2, NAT, and Access Control Lists (Packet Tracer)
 
 <h3>HTML and CSS</h3>
