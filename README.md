@@ -6,7 +6,7 @@
 <h2>👨‍💻 Information Technology and Security Projects</h2>
 Listed below are some of the assignments and projects that I have finished.
 <h3>Home Lab</h3>
-• <a href="https://github.com/ImJKelly/ADDC_Lab/tree/main">Active Directory Domain Controller</a>
+• <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
 
 <h3>Networking and Packet Tracer</h3>
 • <a href="https://github.com/ImJKelly/EtherChannle_InterVlan--Lab/tree/main">Configure Initial Settings, VLANs, EtherChannel, and Trunking (Packet Tracer)</a></br>
