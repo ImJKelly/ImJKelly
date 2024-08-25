@@ -13,7 +13,7 @@ Listed below are some of the assignments and projects that I have finished.
 • Configure Single-Area OSPFv2, NAT, and Access Control Lists (Packet Tracer)
 
 <h3>HTML and CSS</h3>
-• LCRR and SLI Hub Site</br>
+• <a href="">LCRR and SLI Hub Site</a></br>
 • Personal Site
 
 <h3>Database Design</h3>
