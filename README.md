@@ -21,7 +21,7 @@ Listed below are some of the assignments and projects that I have finished.
 • Normalization
 
 <h3>GIS</h3>
-• Snow Removal Workflow</br>
+• <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal Workflow</a></br>
 • Lead and Copper Removal Revision (LCRR) and Service Line Inventory (SLI) Workflow
   
 <h2> 🤳 Connect with me:</h2>
