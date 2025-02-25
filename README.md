@@ -1,9 +1,11 @@
 <h1>Hi, I'm Joseph!</h1>
+I am a Geographic Information System (GIS) professional with a profound interest and strong foundation in information technology and security.
 
 <h2>🎓Education</h2>
-<b>Bachelor of Science in Information Technology: Data Networking and Security</b>, Liberty University (Aug. 2019 - May 2024, GPA 3.7)
+<b>Bachelor of Science in Information Technology: Data Networking and Security</b>, Liberty University (Aug. 2019 - May 2024, GPA 3.7)</br>
+<b>Google Cybersecurity Professional Certificate</b>, Coursera (January 18, 2025)
 
-<h2>👨‍💻 Information Technology and Security Projects</h2>
+<h2>👨‍💻Projects and Assignments</h2>
 Listed below are some of the assignments and projects that I have finished.
 <h3>Home Lab</h3>
 • <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
