@@ -15,8 +15,7 @@ Listed below are some of the assignments and projects that I have finished.
 • <a href="https://github.com/ImJKelly/Implement_SmallNetwork">Implement a Small Network</a>
 
 <h3>HTML and CSS</h3>
-• <a href="https://github.com/ImJKelly/LCRR_SLI">LCRR and SLI Hub Site</a></br>
-• Personal Site
+• <a href="https://github.com/ImJKelly/LCRR_SLI">Lead and Copper Removal (LCRR) and Service Line Inventory (SLI) Internal Hub Site</a></br>
 
 <h3>Database Design</h3>
 • Entity Relationship Diagram (ERD) and SQL Table Creation</br>
@@ -24,7 +23,8 @@ Listed below are some of the assignments and projects that I have finished.
 
 <h3>GIS</h3>
 • <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal Workflow</a></br>
-• Lead and Copper Removal Revision (LCRR) and Service Line Inventory (SLI) Workflow
+• Fire hydrant locations
+• Fourth of July festival
   
 <h2> 🤳 Connect with me:</h2>
 email (personal): kelly.joseph27@gmail.com </br>
