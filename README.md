@@ -7,6 +7,10 @@ I am a Geographic Information System (GIS) professional with a profound interest
 
 <h2>👨‍💻Projects and Assignments</h2>
 Listed below are some of the assignments and projects that I have finished.
+<h3>GIS Projects</h3>
+• <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal</a></br>
+• <a href="https://github.com/ImJKelly/fire_hydrant_locations">Fire Hydrants</a></br>
+
 <h3>Home Lab</h3>
 • <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
 
@@ -21,11 +25,6 @@ Listed below are some of the assignments and projects that I have finished.
 • Entity Relationship Diagram (ERD) and SQL Table Creation</br>
 • Normalization
 
-<h3>GIS</h3>
-• <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal Workflow</a></br>
-• Fire hydrant locations </br>
-• Fourth of July festival
-  
 <h2> 🤳 Connect with me:</h2>
 email (personal): kelly.joseph27@gmail.com </br>
 
