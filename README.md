@@ -23,7 +23,7 @@ Listed below are some of the assignments and projects that I have finished.
 
 <h3>GIS</h3>
 • <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal Workflow</a></br>
-• Fire hydrant locations
+• Fire hydrant locations </br>
 • Fourth of July festival
   
 <h2> 🤳 Connect with me:</h2>
