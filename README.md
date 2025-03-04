@@ -10,7 +10,7 @@ Listed below are some of the assignments and projects that I have finished.
 <h3>GIS Projects</h3>
 • <a href= "https://github.com/ImJKelly/SnowRemoval">Snow Removal</a></br>
 • <a href="https://github.com/ImJKelly/fire_hydrant_locations">Fire Hydrants</a></br>
-• Flood Hazards and Building Permits
+• <a href="https://github.com/ImJKelly/FloodHazard_BuildingPermit">Flood Hazards and Building Permits</a>
 
 <h3>Home Lab</h3>
 • <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
