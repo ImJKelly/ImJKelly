@@ -1,5 +1,5 @@
 <h1>Hi, I'm Joseph!</h1>
-I am a Geographic Information System (GIS) professional with a profound interest and strong foundation in information technology and security.
+I am a Geographic Information System (GIS) professional with a profound interest and strong foundation in Information Technology and Cybersecurity.
 
 <h2>🎓Education</h2>
 <b>Bachelor of Science in Information Technology: Data Networking and Security</b>, Liberty University (Aug. 2019 - May 2024, GPA 3.7)</br>
@@ -27,6 +27,6 @@ Listed below are some of the assignments and projects that I have finished.
 • Normalization
 
 <h2> 🤳 Connect with me:</h2>
-<a href="mailto:kelly.joseph27@gmail.com"><img src= 'https://img.shields.io/badge/Link_For_Email!-white?style=for-the-badge&logo=gmail'></a>
- </br>
+<a href="mailto:kelly.joseph27@gmail.com"><img src= 'https://img.shields.io/badge/Link_For_Email!-white?style=for-the-badge&logo=gmail' /></a></br>
+<a href="https://www.linkedin.com/in/ImJKelly/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
