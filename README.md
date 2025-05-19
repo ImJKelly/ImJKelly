@@ -28,5 +28,5 @@ Listed below are some of the assignments and projects that I have finished.
 
 <h2> 🤳 Connect with me:</h2>
 <a href="mailto:kelly.joseph27@gmail.com"><img src= 'https://img.shields.io/badge/Link_For_Email!-white?style=for-the-badge&logo=gmail' /></a></br>
-<a href="https://www.linkedin.com/in/ImJKelly/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ImJKelly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
