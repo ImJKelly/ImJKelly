@@ -27,5 +27,6 @@ Listed below are some of the assignments and projects that I have finished.
 • Normalization
 
 <h2> 🤳 Connect with me:</h2>
-email (personal): kelly.joseph27@gmail.com </br>
+<a href="mailto:kelly.joseph27@gmail.com"><img src= 'https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail'></a>
+ </br>
 
