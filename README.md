@@ -13,6 +13,7 @@ Listed below are some of the assignments and projects that I have finished.
 • <a href="https://github.com/ImJKelly/FloodHazard_BuildingPermit">Flood Hazards and Building Permits</a>
 
 <h3>Cybersecurity Activities and Projects</h3>
+• Vulnerability Assessment Report--System Analysis
 
 <h3>Home Lab</h3>
 • <a href="https://github.com/ImJKelly/ADDC_Lab">Active Directory Domain Controller</a>
