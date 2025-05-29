@@ -13,7 +13,7 @@ Listed below are some of the assignments and projects that I have finished.
 • <a href="https://github.com/ImJKelly/FloodHazard_BuildingPermit">Flood Hazards and Building Permits</a>
 
 <h3>Cybersecurity Activities and Projects</h3>
-• Managing File Permissions--Linux Commands</br>
+• <a href="https://github.com/ImJKelly/ManagingPermissions">Managing File Permissions--Linux Commands</a></br>
 • <a href="https://github.com/ImJKelly/VulnerabilityAssesmentReport">Vulnerability Assessment Report--System Analysis</a>
 
 <h3>Home Lab</h3>
